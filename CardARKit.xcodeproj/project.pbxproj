@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4207047120FCE01B000CE687 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 4207047020FCE01B000CE687 /* art.scnassets */; };
 		423A936720FA53DB00B6ABE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423A936620FA53DB00B6ABE2 /* AppDelegate.swift */; };
 		423A936920FA53DB00B6ABE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423A936820FA53DB00B6ABE2 /* ViewController.swift */; };
 		423A936C20FA53DB00B6ABE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 423A936A20FA53DB00B6ABE2 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4207047020FCE01B000CE687 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		423A936320FA53DB00B6ABE2 /* CardARKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardARKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		423A936620FA53DB00B6ABE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		423A936820FA53DB00B6ABE2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		423A936520FA53DB00B6ABE2 /* CardARKit */ = {
 			isa = PBXGroup;
 			children = (
+				4207047020FCE01B000CE687 /* art.scnassets */,
 				423A936620FA53DB00B6ABE2 /* AppDelegate.swift */,
 				423A936820FA53DB00B6ABE2 /* ViewController.swift */,
 				423A936A20FA53DB00B6ABE2 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				423A937420FA53DE00B6ABE2 /* LaunchScreen.storyboard in Resources */,
+				4207047120FCE01B000CE687 /* art.scnassets in Resources */,
 				423A937120FA53DE00B6ABE2 /* Assets.xcassets in Resources */,
 				423A936C20FA53DB00B6ABE2 /* Main.storyboard in Resources */,
 			);
